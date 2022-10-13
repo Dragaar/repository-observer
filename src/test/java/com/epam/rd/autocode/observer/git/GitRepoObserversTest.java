@@ -1,6 +1,9 @@
 package com.epam.rd.autocode.observer.git;
 
 
+import com.epam.rd.autocode.observer.git.Repository.Branch;
+import com.epam.rd.autocode.observer.git.Repository.Repository;
+import com.epam.rd.autocode.observer.git.WebHook.WebHook;
 import org.junit.jupiter.api.Test;
 
 import static org.junit.jupiter.api.Assertions.assertEquals;

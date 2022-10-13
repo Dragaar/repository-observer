@@ -1,4 +1,7 @@
-package com.epam.rd.autocode.observer.git;
+package com.epam.rd.autocode.observer.git.WebHook;
+
+import com.epam.rd.autocode.observer.git.Repository.Branch;
+import com.epam.rd.autocode.observer.git.Repository.Commit;
 
 import java.util.Collections;
 import java.util.List;
@@ -48,7 +51,7 @@ public class Event {
         return result;
     }
 
-    enum Type {
+    public enum Type {
         COMMIT,
         MERGE
     }

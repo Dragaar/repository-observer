@@ -1,4 +1,6 @@
-package com.epam.rd.autocode.observer.git;
+package com.epam.rd.autocode.observer.git.Repository;
+
+import com.epam.rd.autocode.observer.git.WebHook.WebHook;
 
 public interface Repository {
     Branch getBranch(String name);

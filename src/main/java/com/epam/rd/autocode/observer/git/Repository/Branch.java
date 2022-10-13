@@ -1,4 +1,4 @@
-package com.epam.rd.autocode.observer.git;
+package com.epam.rd.autocode.observer.git.Repository;
 
 import java.util.Objects;
 
