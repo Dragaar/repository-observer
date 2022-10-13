@@ -1,7 +1,4 @@
-package com.epam.rd.autocode.observer.git.WebHook;
-
-import com.epam.rd.autocode.observer.git.Repository.Branch;
-import com.epam.rd.autocode.observer.git.Repository.Commit;
+package com.epam.rd.autocode.observer.git;
 
 import java.util.Collections;
 import java.util.List;

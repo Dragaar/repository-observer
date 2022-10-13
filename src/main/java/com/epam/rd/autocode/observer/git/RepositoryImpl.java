@@ -1,10 +1,6 @@
-package com.epam.rd.autocode.observer.git.Repository;
-
-import com.epam.rd.autocode.observer.git.WebHook.Event;
-import com.epam.rd.autocode.observer.git.WebHook.WebHook;
+package com.epam.rd.autocode.observer.git;
 
 import java.util.*;
-import java.util.function.Consumer;
 
 public class RepositoryImpl implements Repository{
 

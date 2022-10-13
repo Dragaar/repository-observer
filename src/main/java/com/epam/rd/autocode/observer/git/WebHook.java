@@ -1,4 +1,4 @@
-package com.epam.rd.autocode.observer.git.WebHook;
+package com.epam.rd.autocode.observer.git;
 
 import java.util.List;
 
